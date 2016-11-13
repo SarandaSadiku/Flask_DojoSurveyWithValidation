@@ -1,0 +1,15 @@
+*{
+    font-family: Verdana;
+}
+h2{
+    text-decoration: underline;
+}
+
+div{
+    margin: 0px auto;
+    width: 510px;
+    padding: 20px;
+}
+div,input,select,textarea,button{
+    border: 2px solid black;
+}
